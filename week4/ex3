@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Brown Bear</title>
+</head>
+<body>
+   <h1> The Brown Bear </h1>
+   <p> The brown bear is a large bear species found across North America,
+Europe, and Asia. It is known for its strength, thick fur, and
+powerful build.</p>
+<p><strong>Learn More</strong>
+<a href="https://en.wikipedia.org/wiki/Brown_bear"></a></p>
+    <h2> The following contries have the largest populations of Brown bears</h2>
+    <p>1 Russia</p>
+    <p> US</p>
+    <p>canada</p>
+    <img src="bear.jpg" alt="Brown bear" width="400">
+</body>
+</html>
